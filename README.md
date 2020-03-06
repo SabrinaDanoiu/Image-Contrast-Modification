@@ -3,7 +3,7 @@
 Proiectul consta in modificarea contrastului unei imagini. Acesta include 4 clase principale:
 ImageTest ( in care se regaseste main-ul ), Interfata, SClass si Abstracta (clasa abstracta).
 
-  Etape de executie::
+  Etape de executie :
   
 1. Citirea informatiilor de identificare a fisierului sursa si a fisierului destinatie
 2. Citirea fisierului sursa
